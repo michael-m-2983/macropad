@@ -1,5 +1,0 @@
-"Reference","Value","Footprint","Datasheet","Qty","DNP","Exclude from BOM","Exclude from Board"
-"J1","OLED","OLED:SSD1306-0.91-OLED-4pin-128x32","~","1","","",""
-"SW1,SW2,SW3,SW4,SW5","SW_Push","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","~","5","","",""
-"SW6","RotaryEncoder_Switch","RotaryEncoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","~","1","","",""
-"U1","XIAO-RP2040-DIP","OPL:XIAO-RP2040-DIP","https://files.seeedstudio.com/wiki/XIAO-RP2040/res/rp2040_datasheet.pdf","1","","",""
