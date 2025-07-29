@@ -3,7 +3,6 @@
 A custom macropad designed by me.
 
 ![](./images/render1.png)
-
 ![](./images/exploded.png)
 
 ## BOM
